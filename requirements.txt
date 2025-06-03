@@ -1,5 +1,5 @@
 streamlit>=1.32
 openai>=1.0
 python-dotenv>=1.0
-langchain
+langchain>=0.1.17
 faiss-cpu

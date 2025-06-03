@@ -20,7 +20,7 @@ openai.api_key = api_key
 
 # === Streamlit Setup ===
 st.set_page_config(page_title="🧬 Train Your Own Assistant", layout="centered")
-st.title("🧬 Day 18 — Build Your Own Mini LLM Assistant")
+st.title("🧬 Build Your Own Mini Assistant")
 st.caption("Upload data or type answers, and we'll build a localized assistant that understands your content.")
 
 # === Input Options ===
